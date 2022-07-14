@@ -33,10 +33,14 @@
 
 }
 
-.footer {
-    color:white;
-    font-family: 'Comfortaa', cursive;
+.row {
+    margin:18px;
+}
 
+.footer {
+    color:rgb(0, 0, 0);
+    font-family: 'Comfortaa', cursive;
+    background-color: rgb(230, 230, 230);
 }
 
 body {
