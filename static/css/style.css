@@ -1,0 +1,44 @@
+.jumbotron {
+    margin:18px;
+}
+
+.jumbotron h1 {
+    color:rgb(51 122 183);
+    font-family: 'Comfortaa', cursive;
+
+    
+}
+
+.jumbotron p {
+    color:rgb(51 122 183)
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.white-text h2 {
+    color: aliceblue;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.aliceblue-text p {
+    color: aliceblue;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.col-md-12 p {
+    color: aliceblue;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.footer {
+    color:white;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
